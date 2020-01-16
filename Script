@@ -1,0 +1,1 @@
+#line = line.replace(AppConstraints.LOGIN_LINK, "<html><a href=  http://localhost:9898/unlockAccount?email="+usrRegstion.getEmail()+">login</a></html>  ");

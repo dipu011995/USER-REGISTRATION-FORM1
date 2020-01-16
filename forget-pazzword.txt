@@ -1,0 +1,11 @@
+Hi
+<br>
+	Mr./Mrs. ${toname} 
+	<br>
+		
+	<br>
+	Your  password is::  ${pazzword}
+	<br>
+	Click on this hyperlink to open Login form.<a href=  "http://localhost:9898/">login</a>
+	<br><br>
+	Thanks,Regards Team  PKSoft.

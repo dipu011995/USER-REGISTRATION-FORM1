@@ -1,0 +1,11 @@
+Hi
+<br>
+	Mr./Mrs. ${toname} 
+	<br>
+	Registration Sucessful...
+	<br>
+	Your tepmorary password is password = ${pazzword}
+	<br>
+	Click on this hyperlink to active  your account.<a href=  "http://localhost:9898/unlockAccount?email=${loginEmail}">login</a>
+	<br><br>
+	Thanks,Regards Team  PKSoft.
